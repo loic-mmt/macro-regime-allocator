@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.0
+rich==13.7.1
+fredapi==0.5.1
+requests==2.32.3
